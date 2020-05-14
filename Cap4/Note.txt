@@ -1,0 +1,32 @@
+·C/C++位域
+
+	位域的作用主要是节省内存资源，使数据结构更紧凑。
+
+	参考：
+
+	https://jocent.me/2017/07/24/bit-field-detail.html
+
+	https://www.cnblogs.com/pure/archive/2013/04/22/3034818.html
+
+
+·数组名和指针常量
+
+	参考：
+
+	https://blog.csdn.net/u012348692/article/details/79036298
+
+·C++存储方式
+	
+		自动存储
+
+		静态存储
+
+		动态存储
+
+		*线程存储
+
+·自由存储区和堆
+
+	参考：
+
+	https://www.cnblogs.com/QG-whz/p/5060894.html
