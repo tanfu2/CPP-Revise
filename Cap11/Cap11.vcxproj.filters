@@ -18,5 +18,13 @@
     <ClCompile Include="Cap11.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="mytime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mytime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
